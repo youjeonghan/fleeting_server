@@ -1,4 +1,4 @@
-package com.example.blinddateserver
+package com.example.fleetingserver
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
