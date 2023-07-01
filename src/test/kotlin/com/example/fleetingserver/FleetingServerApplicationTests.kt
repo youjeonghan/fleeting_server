@@ -1,10 +1,10 @@
-package com.example.blinddateserver
+package com.example.fleetingserver
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class BlindDateServerApplicationTests {
+class FleetingServerApplicationTests {
 
 	@Test
 	fun contextLoads() {
