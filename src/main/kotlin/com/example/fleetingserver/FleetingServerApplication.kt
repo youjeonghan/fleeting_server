@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class FleetingServerApplication
 
 fun main(args: Array<String>) {
-	runApplication<FleetingServerApplication>(*args)
+    runApplication<FleetingServerApplication>(*args)
 }
